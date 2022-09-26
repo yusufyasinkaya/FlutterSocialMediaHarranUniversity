@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178915042787",
+    "project_id": "tiyatro-c307e",
+    "storage_bucket": "tiyatro-c307e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178915042787:android:cddb8e40192d617cb4acd6",
+        "android_client_info": {
+          "package_name": "com.example.tiyatrokulubu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178915042787-udjfl5eu1l9e39l8nf75o4jb0sa042tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6D0ymkxc47lxbMMLsS8kAbrAVW7wevL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178915042787-udjfl5eu1l9e39l8nf75o4jb0sa042tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
