@@ -8,7 +8,8 @@ class ImagePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(file.name),
+        backgroundColor: Colors.white,
+        title: Text(file.name,style: TextStyle(color: Colors.black),),
         centerTitle: true,
       ),
       body: Image.network(
